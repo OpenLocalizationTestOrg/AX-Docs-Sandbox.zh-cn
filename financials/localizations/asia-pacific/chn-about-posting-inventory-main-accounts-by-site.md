@@ -1,24 +1,26 @@
 ---
-title: Posting inventory main accounts by site | Microsoft Docs
+title: Posting inventory main accounts by site
 description: This topic provides information about the posting of inventory main accounts by site for China.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-12 22:49:48
+ms.date: 2016-12-12 22 - 49 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventPostingParameters
+ms.search.form: InventPostingParameters
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 262754
-ms.assetid: e43f0736-9e0a-46fb-8552-f365df9dfb42
-ms.region: China (PRC)
+ms.assetid: f8e0b34d-006a-4baf-86ae-60625ba4b442
+ms.search.region: China (PRC)
 ms.author: leguo
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: ba7902e5a37419e6860c8aa4a1e2661a8c1a8bf6
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: ba525c11bed7509e6fd1cee5ecc526998a72bc64
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -40,10 +42,5 @@ Organizations that stock more than 100 inventory items and also maintain several
 | 15085        | Raw materials | Site 2 | 3,299,398 |
 
 By setting up main accounts for inventory values by site, you can post inventory transactions, such as inventory journals, sales orders, purchase orders, production journals, and project item journals, for each site.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

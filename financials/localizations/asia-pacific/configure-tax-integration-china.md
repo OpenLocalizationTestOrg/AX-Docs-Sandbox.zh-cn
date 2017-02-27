@@ -1,23 +1,25 @@
 ---
-title: Configure tax integration for China | Microsoft Docs
+title: Configure tax integration for China
 description: This topic describes the process for configuring tax integration for China.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-22 16:55:28
+ms.date: 2016-12-22 16 - 55 - 28
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 265264
-ms.assetid: 25f99fbd-43e3-4e64-8ba5-2b1a6e45ec75
-ms.region: China (PRC)
+ms.assetid: e5dbbbe1-935f-4fb4-a014-447916051628
+ms.search.region: China (PRC)
 ms.author: leguo
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6e47035f420c3597f9e6b8a171f0dd28aa2341d6
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 396979a32ccdf7628280e42a3104bd4015f83a9f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -44,11 +46,8 @@ The tax integration process is illustrated in the following diagram. [![IC666469
 <a name="see-also"></a>See also
 --------
 
-[Import the Chinese Golden Tax data entity](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/import-the-chinese-golden-tax-data-entity)
+[Import the Chinese Golden Tax data entity](import-chinese-golden-tax-data-entity.md)
 
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Chinese tax integration modification for VAT customer invoices FAQ](chn-chinese-tax-integration-vat-customer-invoices.md)
 
 

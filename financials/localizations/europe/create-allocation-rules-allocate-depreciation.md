@@ -1,23 +1,25 @@
 ---
-title: Create allocation rules and allocate depreciation costs | Microsoft Docs
+title: Create allocation rules and allocate depreciation costs
 description: This topic explains the process of creating allocation rules and allocating depreciation costs of fixed assets for Japan.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-02 22:19:26
+ms.date: 2016-12-02 22 - 19 - 26
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 261434
-ms.assetid: 4e186e80-f99f-40a9-b7fb-13757bb48b12
-ms.region: China (PRC), Japan
+ms.assetid: c22234d8-68b2-4b36-b07c-0b380c2c12f8
+ms.search.region: China (PRC), Japan
 ms.author: leguo
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 275381fe2c95298ea414ae8478efce121597d20b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 47b86efe16b73c647f924bef21f956e4e5db7f9d
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -49,11 +51,6 @@ After you set up allocation rules and assign them to a fixed asset posting profi
 <a name="see-also"></a>See also
 --------
 
-[Allocation rules for fixed assets](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/chn-jpn-allocation-rules-for-fixed-assets)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Allocation rules for fixed assets](allocation-rules-fixed-assets.md)
 
 

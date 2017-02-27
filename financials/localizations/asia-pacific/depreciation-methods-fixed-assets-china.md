@@ -1,23 +1,25 @@
 ---
-title: Depreciation methods for fixed assets | Microsoft Docs
+title: Depreciation methods for fixed assets
 description: This topic describes the depreciation method set up for legal entities in China.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-22 16:47:54
+ms.date: 2016-12-22 16 - 47 - 54
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 265244
-ms.assetid: edf34495-3f4c-4500-a032-5ece79ded413
-ms.region: China (PRC)
+ms.assetid: c7ee6b6a-cb92-4d1a-b4bb-37df3107dac8
+ms.search.region: China (PRC)
 ms.author: leguo
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f71c822217caa5d58c7eefcac5dbb6fe20f1aec6
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 2f077f9e066fe68bce37030f5e220594f4600f32
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -36,10 +38,5 @@ To create a depreciation profile:
 -   Create a new depreciation profile. Use the method of either **Sum year digits** or **Double reducing balance**.
 -   Create a book for the depreciation method, use either **Sum year digits** or **Double reducing balance**.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

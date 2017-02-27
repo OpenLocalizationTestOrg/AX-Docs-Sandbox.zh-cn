@@ -1,23 +1,25 @@
 ---
-title: Monthly average cost model for China | Microsoft Docs
+title: Monthly average cost model for China
 description: Inventory costing is used to determine the cost or monetary value of warehoused inventory items.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-21 16:22:40
+ms.date: 2016-12-21 16 - 22 - 40
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 265044
-ms.assetid: 043992e8-0fd7-42f5-9cf3-0d7eb41f96d6
-ms.region: China (PRC)
+ms.assetid: 1f7abefa-8f87-4aa7-8eca-51974f91068d
+ms.search.region: China (PRC)
 ms.author: leguo
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1666814f7c697f728e05e775d17e7145071660b0
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: fbe886b20bb8c16874cb55bff1ad7a972328f346
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -56,10 +58,5 @@ Many Chinese manufacturing and trading companies use a monthly average cost mode
  
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

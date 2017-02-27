@@ -1,23 +1,25 @@
 ---
-title: (CHN) Chinese tax integration modification for VAT customer invoices FAQ | Microsoft Docs
+title: (CHN) Chinese tax integration modification for VAT customer invoices FAQ
 description: You can generate value-added tax (VAT) customer invoices, and then export them as text files. You can then import reference numbers for the VAT customer invoices that can be linked to the original invoices.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-19 21:21:02
+ms.date: 2016-12-19 21 - 21 - 02
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 264894
-ms.assetid: 6438efb8-682c-4e8c-8c95-c0ee3846cb9b
-ms.region: China (PRC)
+ms.assetid: 9d255220-9a19-4436-87a6-f78d92c02062
+ms.search.region: China (PRC)
 ms.author: leguo
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b3e0672198db2f3c7be7c0f3edeb92bedf18c581
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 51ef7c32e90102cc5ed259d426afeb7c7e299056
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -73,9 +75,11 @@ To map the added fields to table, follow these steps:
 
 
 
+<a name="see-also"></a>See also
+--------
 
+[Configure tax integration for China](configure-tax-integration-china.md)
 
-
-<!--HONumber=Feb17_HO3-->
+[Import the Chinese Golden Tax data entity](import-chinese-golden-tax-data-entity.md)
 
 
